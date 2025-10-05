@@ -1,6 +1,5 @@
 package murach.util;
-
-import javax.servlet.http.*;
+import jakarta.servlet.http.*;
 
 public class CookieUtil {
 
@@ -18,3 +17,4 @@ public class CookieUtil {
         return cookieValue;
     }
 }
+
